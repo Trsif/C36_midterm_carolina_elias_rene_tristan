@@ -1,3 +1,4 @@
+                               ![This is an image of FurEver homepage!](.png)
 # FurEver App
 
 FurEver helps users sort through available pets by pet type, size, sex, and age group.  Pulling from the PetFinder API, you can browse all pet profiles with available pictures and relevant information, and filter down your search.
